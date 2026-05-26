@@ -43,3 +43,5 @@
 ---
 
 ## 项目结构
+entry/src/main/ets/pages/
+└── Index.ets          # 主页面（包含全部 UI 与逻辑
